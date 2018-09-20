@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="user_settings_normal_size">20dp</dimen>
+    <dimen name="footerBarHeight">50dp</dimen>
+    <dimen name="user_settings_small_size">17sp</dimen>
+</resources>
